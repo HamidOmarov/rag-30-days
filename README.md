@@ -1,2 +1,1 @@
-# rag-30-days
-30-day intensive LLM/RAG development journey
+How to embed GitHub commit history in Notion using GitHub API?
