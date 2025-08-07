@@ -40,6 +40,28 @@ To build a production-ready RAG pipeline in 30 days and land a remote AI job by 
 
 Check commits and folders daily to follow the sprint. Each folder corresponds to 1 day of learning and building.
 
+## 📅 Day 1 – Getting Started with Python & Flask
+
+### ✅ What I Learned
+- Refreshed core **Python basics** (variables, functions, classes, etc.)
+- Built my first **Flask API** with real-world JSON responses
+- Practiced structured coding with **Copilot assistance**
+
+### 🛠️ What I Built
+- `hello_ai.py`: A minimal Python script to print a welcome message
+- `api.py`: A Flask application with 3 endpoints:
+  - `/hello`: greeting message
+  - `/calculate`: accepts 2 numbers (POST) and returns their sum
+  - `/ai-ready`: motivational message for AI learning
+
+### 🔮 Tomorrow's Plan
+- Begin **LangChain** setup and environment configuration
+- Start working on **RAG-based document processing**
+- Set up folder structure and `day2` workflow
+
+> 👣 One day down, 29 to go. Keep shipping.
+
+
 ## 📬 Contact
 
 Made by [Hamid Omarov](https://www.linkedin.com/in/hamidomarov)  
