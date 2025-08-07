@@ -1,29 +1,27 @@
 from flask import Flask, request, jsonify
 
 app = Flask(__name__)
-
-# 1. /hello endpoint
-@app.route('/hello', methods=['GET'])
+@app.route('/hello')
 def hello():
-    return jsonify({'message': 'Hello, welcome to the RAG 30-day sprint!'})
+    # Return a greeting message as JSON
+    return jsonify({"message": "Hello, World!"})
 
-# 2. /calculate endpoint
-@app.route('/calculate', methods=['GET'])
+@app.route('/calculate', methods=['POST'])
 def calculate():
-    try:
-        a = float(request.args.get('a'))
-        b = float(request.args.get('b'))
-        result = a + b
-        return jsonify({'a': a, 'b': b, 'sum': result})
-    except (TypeError, ValueError):
-        return jsonify({'error': 'Please provide valid numbers using ?a=5&b=10'}), 400
+    # Get 'a' and 'b' from request and return their sum as JSON
+    data = request.get_json()
+    a = data.get('a', 0)
+    b = data.get('b', 0)
+    return jsonify({"sum": a + b})
 
-# 3. /ai-ready endpoint
-@app.route('/ai-ready', methods=['GET'])
+@app.route('/ai-ready')
 def ai_ready():
     return jsonify({
-        'message': 'You are ready to build AI apps. Keep pushing, learn daily, and ship projects!'
+        "message": "Day 1 of 30: Learning Python for AI",
+        "progress": "3%"
     })
 
-if __name__ == '__main__':
-    app.run(debug=True)
+# Run the Flask application
+if __name__ == '__main__':  
+    app.run(debug=True)     
+    
