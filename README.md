@@ -115,7 +115,7 @@ Start using Chroma for vector storage
 - Prompt design: extractive answers + fallback
 
 ### Live Demo
-🔗 [HuggingFace Space Link](https://didactic-winner-q7g79xg9gp4626w56-7860.app.github.dev/)
+🔗 [HuggingFace Space Link](https://huggingface.co/spaces/HamidOmarov/First_RAG_System)
 
 ## 📬 Contact
 
