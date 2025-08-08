@@ -1,1 +1,2 @@
 .env
+grep -qxF '.env' .gitignore || echo '.env' >> .gitignore
