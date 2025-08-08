@@ -4,11 +4,12 @@ This repository contains a 30-day sprint to master Retrieval-Augmented Generatio
 
 ## 📅 Day Tracker
 
-| Day | Folder | Description            | Status |
-|-----|--------|------------------------|--------|
-| 1   | day1   | Hello world test file  | ✅     |
-| 2   | day2   | TBD                    | ⏳     |
-| ... | ...    | ...                    | ...    |
+| Day | Folder | Description | Status |
+|-----|--------|-------------|--------|
+| 1 | day1 | Python + Flask setup | ✅ |
+| 2 | day2 | LangChain + Groq | ✅ |
+| 3 | day3 | **Full RAG System** | ✅ |
+| 4 | day4 | Upwork + Portfolio | ⏳ |
 
 ## 📂 Folder Structure
 
