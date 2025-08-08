@@ -61,6 +61,24 @@ Check commits and folders daily to follow the sprint. Each folder corresponds to
 
 > 👣 One day down, 29 to go. Keep shipping.
 
+## Day 3: First RAG System ✅
+
+### What I Built
+- PDF processing pipeline (loader + optimal chunker)
+- Compared 3 chunking strategies (fixed, recursive, token)
+- ChromaDB vector storage (persistent)
+- SentenceTransformer embeddings (MiniLM)
+- Gradio chat interface (upload PDF → ask)
+- Deployment on Hugging Face Spaces
+
+### Key Learnings
+- Fixed vs Recursive vs Token-based chunking trade-offs
+- Embedding format must be list[list[float]] for Chroma
+- New Chroma API uses `PersistentClient`
+- Prompt design: extractive answers + fallback
+
+### Live Demo
+🔗 [HuggingFace Space Link](https://didactic-winner-q7g79xg9gp4626w56-7860.app.github.dev/)
 
 ## 📬 Contact
 
