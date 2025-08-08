@@ -1,0 +1,6 @@
+gradio
+chromadb
+sentence-transformers
+langchain-groq
+pypdf
+python-dotenv
