@@ -60,6 +60,40 @@ Check commits and folders daily to follow the sprint. Each folder corresponds to
 - Set up folder structure and `day2` workflow
 
 > 👣 One day down, 29 to go. Keep shipping.
+📅 Day 2 – LangChain Basics & My First Chatbot
+✅ What I Learned
+
+Got hands-on with LangChain components: LLMChain, PromptTemplate
+
+Integrated Groq API into LangChain LLM flow
+
+Built my first functional chatbot using a simple chain logic
+
+Practiced chaining user input → prompt → response generation
+
+🛠️ What I Built
+
+first_chain.py: a hello-world chain using PromptTemplate + LLMChain
+
+chatbot.py: a simple question-answer chatbot using Groq LLM
+
+Reusable design: change the prompt, change the behavior
+
+📚 Key Takeaways
+
+Prompt design is everything — small tweaks lead to major output changes
+
+Groq models are blazing fast, but careful prompting is still necessary
+
+LangChain is modular and beginner-friendly once you get the flow
+
+🔮 Tomorrow's Plan
+
+Begin building a real RAG pipeline
+
+Add PDF loading and explore chunking strategies
+
+Start using Chroma for vector storage
 
 ## Day 3: First RAG System ✅
 
