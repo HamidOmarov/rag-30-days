@@ -60,6 +60,9 @@ Check commits and folders daily to follow the sprint. Each folder corresponds to
 - Set up folder structure and `day2` workflow
 
 > 👣 One day down, 29 to go. Keep shipping.
+
+
+
 📅 Day 2 – LangChain Basics & My First Chatbot
 ✅ What I Learned
 
