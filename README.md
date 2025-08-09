@@ -80,26 +80,6 @@ Check commits and folders daily to follow the sprint. Each folder corresponds to
 
 > 👣 Four day down, 26 to go. Keep shipping.
 
-
-## 💼 Professional Portfolio
-
-🔗 **[Portfolio Website](https://hamidomarov.github.io)**
-🔗 **[Upwork Profile](https://upwork.com/freelancers/~01xyz)**
-
-### Services Offered:
-- RAG System Development
-- Custom Chatbot Creation
-- PDF Processing Pipelines
-- Vector Database Integration
-- LangChain Implementation
-
-### Completed Projects:
-1. **RAG Document Assistant** - Full-stack PDF Q&A system
-2. **EthicaGuard** - Toxic content detection with 95% accuracy
-3. **Neural Sonata** - AI music visualization platform
-
-
-
 📅 Day 2 – LangChain Basics & My First Chatbot
 ✅ What I Learned
 
@@ -168,6 +148,24 @@ Start using Chroma for vector storage
 - Monitor responses
 - 10 more proposals
 - FastAPI learning
+
+## 💼 Professional Portfolio
+
+🔗 **[Portfolio Website](https://hamidomarov.github.io)**
+🔗 **[Upwork Profile](https://upwork.com/freelancers/~01xyz)**
+
+### Services Offered:
+- RAG System Development
+- Custom Chatbot Creation
+- PDF Processing Pipelines
+- Vector Database Integration
+- LangChain Implementation
+
+### Completed Projects:
+1. **RAG Document Assistant** - Full-stack PDF Q&A system
+2. **EthicaGuard** - Toxic content detection with 95% accuracy
+3. **Neural Sonata** - AI music visualization platform
+
 
 💭 Notes:
 Entry-level jobs targeted for quick wins
