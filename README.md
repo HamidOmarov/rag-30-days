@@ -8,8 +8,9 @@ This repository contains a 30-day sprint to master Retrieval-Augmented Generatio
 |-----|--------|-------------|--------|
 | 1 | day1 | Python + Flask setup | ✅ |
 | 2 | day2 | LangChain + Groq | ✅ |
-| 3 | day3 | **Full RAG System** | ✅ |
-| 4 | day4 | Upwork + Portfolio | ⏳ |
+| 3 | day3 | Full RAG System | ✅ |
+| 4 | day4 | Upwork + Portfolio | ✅ |
+| 5 | day5 | Client outreach | ⏳ |
 
 ## 📂 Folder Structure
 
@@ -39,6 +40,23 @@ To build a production-ready RAG pipeline in 30 days and land a remote AI job by 
 
 ## 📈 Progress
 
+✅ **Week 1 Complete:**
+- Python environment setup
+- LangChain integration
+- Full RAG system deployed
+- Upwork profile launched
+- 5 client proposals sent
+
+🎯 **Current Focus:** Landing first client
+
+## 📊 Sprint Metrics
+
+- **Days Active:** 4/30
+- **Projects Completed:** 3
+- **Proposals Sent:** 5
+- **GitHub Commits:** 20+
+- **Deploy Status:** 🟢 Live on HuggingFace
+
 Check commits and folders daily to follow the sprint. Each folder corresponds to 1 day of learning and building.
 
 ## 📅 Day 1 – Getting Started with Python & Flask
@@ -60,7 +78,25 @@ Check commits and folders daily to follow the sprint. Each folder corresponds to
 - Start working on **RAG-based document processing**
 - Set up folder structure and `day2` workflow
 
-> 👣 One day down, 29 to go. Keep shipping.
+> 👣 Four day down, 26 to go. Keep shipping.
+
+
+## 💼 Professional Portfolio
+
+🔗 **[Portfolio Website](https://hamidomarov.github.io)**
+🔗 **[Upwork Profile](https://upwork.com/freelancers/~01xyz)**
+
+### Services Offered:
+- RAG System Development
+- Custom Chatbot Creation
+- PDF Processing Pipelines
+- Vector Database Integration
+- LangChain Implementation
+
+### Completed Projects:
+1. **RAG Document Assistant** - Full-stack PDF Q&A system
+2. **EthicaGuard** - Toxic content detection with 95% accuracy
+3. **Neural Sonata** - AI music visualization platform
 
 
 
@@ -114,6 +150,28 @@ Start using Chroma for vector storage
 - Embedding format must be list[list[float]] for Chroma
 - New Chroma API uses `PersistentClient`
 - Prompt design: extractive answers + fallback
+
+📅 Day 4 Summary
+━━━━━━━━━━━━━━━
+✅ Achievements:
+- Upwork profile 100%
+- Portfolio deployed
+- 5 proposals sent
+- Skills verified
+
+📊 Metrics:
+- Hours worked: 8
+- Connects used: 50-70
+- Response rate: 0% (too early)
+
+🎯 Tomorrow:
+- Monitor responses
+- 10 more proposals
+- FastAPI learning
+
+💭 Notes:
+Entry-level jobs targeted for quick wins
+
 
 ### Live Demo
 🔗 [HuggingFace Space Link](https://huggingface.co/spaces/HamidOmarov/First_RAG_System)
